@@ -36,15 +36,15 @@ React Hooks - использование useState и useEffect
 Экран приветствия с правилами игры
 
 <div align="center">
-  <img alt="startscreen" src="../Images/start_screen.png" />
+  <img alt="startscreen" src="./Images/start_screen.png" />
 </div>
 
 Гемйплей
 <div align="center">
-  <img alt="gameplay" src="../Images/gameplay1.png" />
+  <img alt="gameplay" src="./Images/gameplay1.png" />
 </div>
 
 Экран завершения игры с итоговой статистикой
 <div align="center">
-  <img alt="endscreen" src="../Images/endgame.png" />
+  <img alt="endscreen" src="./Images/endgame.png" />
 </div>
